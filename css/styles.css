@@ -62,7 +62,7 @@ a {
     text-align: center;
     padding: 80px 20px;
     position: relative;
-    background-image: url('recursos/fiesta.png');
+    background-image: url('../recursos/fiesta.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
